@@ -5,4 +5,6 @@ Anggota kelompok Quiz 3:
 Shintya aza dongs
 Gaktau ini kenapa gabisa di simpan dan Modified nya ga muncul ya 
 Dicoba coba gabisa euy 
-harus di ctrl+save euy biar bisa muncul modified nya. 
+harus di ctrl+save euy biar bisa muncul modified nya
+
+bisa di tambah euy
